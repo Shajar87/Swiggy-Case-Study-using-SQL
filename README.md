@@ -5,11 +5,6 @@
 ---
 This project is a SQL case study on Swiggy data.
 
-
-**🔗Queries PDF link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Swiggy%20Case%20Study%20Using%20SQL.pdf
-
-**🔗Dataset link:** https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG
-
 **The following tables were being used:**
 1. Food
 2. menu
